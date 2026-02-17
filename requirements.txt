@@ -1,9 +1,4 @@
 yt-dlp
 streamlit
-os
-shutil
 moviepy.editor
 pydub
-zipfile
-smtplib
-email.message
